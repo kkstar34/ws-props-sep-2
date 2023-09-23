@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.img-container{
+  width: 200px;
+  height: 200px;
+  
+}
+
+.img-container img{
+  width: 100%;
+}
+
+.main{
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn{
+  width: 50%;
+  border-radius: 1rem;
+  padding : 1rem;
+  background-color: green;
+}
+
+.description{
+  margin-top: 2rem;
+}
