@@ -18,6 +18,7 @@
 .main{
   display: flex;
   justify-content: space-around;
+  flex-wrap:wrap ;
 }
 
 .btn{
@@ -29,4 +30,8 @@
 
 .description{
   margin-top: 2rem;
+}
+
+.card{
+  width: 23%;
 }
